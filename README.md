@@ -13,8 +13,7 @@ Three top-level categories:
   combining several structures behind an API, not a single pattern. See
   `design-questions/README.md`.
 
-Each topic under `topics/` is intended to look like this. `04-linked-lists` is
-the only one that does so far, and it has no `problems/` directory yet:
+Each topic under `topics/` is intended to look like this.
 
 ```
 topics/NN-topic-name/
