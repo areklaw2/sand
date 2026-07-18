@@ -12,17 +12,6 @@ dynamic array.
 - **Doubly linked list**: the above plus `push_back`/`pop_back` in O(1),
   `remove(node)` in O(1), and iteration in both directions.
 
-## Why this belongs in `data-structures/` and not only in `topics/`
-
-`topics/04-linked-lists/README.md` has linked lists as *scaffolding*: the pattern
-snippets there (fast/slow pointer, move-to-front) exist to give the pattern
-something to run on. The doubly-linked snippet in that README only implements
-`push_front`, on purpose.
-
-This folder is the structure as the exercise: full API, removal, node reuse
-(free list), the memory model. Same reason `dynamic-array` is here even though
-you use `Vec` in every topic.
-
 ## The Rust part
 
 Splits across the two tiers from `../README.md`:
