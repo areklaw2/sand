@@ -6,7 +6,7 @@
 
 Three top-level categories:
 
-- `topics/`: one algorithmic pattern per folder. Documentation only, no code.
+- `topics/`: one algorithmic pattern per file. Documentation only, no code.
 - `data-structures/`: the core structures built by hand (your own hash map, heap,
   trie), not tied to any specific problem. See `data-structures/README.md`.
 - `design-questions/`: things like Design Twitter or a Parking Lot. Small systems
@@ -20,7 +20,7 @@ topics/NN-topic-name.md
   ## <subtopic>           # H2 per subtopic
     ```rust               # the pattern
     ```
-    ### Problems          # name + link + difficulty, no solutions
+  ## Problems             # one list at the bottom, name + link + difficulty, no solutions
 ```
 
 Each crate under `data-structures/` and `design-questions/`:
