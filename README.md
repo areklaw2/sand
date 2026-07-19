@@ -13,13 +13,14 @@ Three top-level categories:
   combining several structures behind an API, not a single pattern. See
   `design-questions/README.md`.
 
-Each topic under `topics/` is intended to look like this.
+Each topic under `topics/` is a single flat file.
 
 ```
-topics/NN-topic-name/
-  README.md              # the pattern, with Rust snippets inline
-  problems/
-    problem-name.md      # description + link + solution
+topics/NN-topic-name.md
+  ## <subtopic>           # H2 per subtopic
+    ```rust               # the pattern
+    ```
+    ### Problems          # name + link + difficulty, no solutions
 ```
 
 Each crate under `data-structures/` and `design-questions/`:
