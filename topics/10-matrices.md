@@ -6,12 +6,10 @@
 // template here
 ```
 
-### Problems
-
 ## In-place transforms
 
 ```rust
 // template here
 ```
 
-### Problems
+## Problems

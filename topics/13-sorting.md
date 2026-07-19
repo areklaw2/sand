@@ -6,15 +6,11 @@
 // template here
 ```
 
-### Problems
-
 ## Merge sort
 
 ```rust
 // template here
 ```
-
-### Problems
 
 ## Bucket sort
 
@@ -22,15 +18,11 @@
 // template here
 ```
 
-### Problems
-
 ## Topological sort (Kahn's)
 
 ```rust
 // template here
 ```
-
-### Problems
 
 ## Counting sort
 
@@ -38,4 +30,4 @@
 // template here
 ```
 
-### Problems
+## Problems

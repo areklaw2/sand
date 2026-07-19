@@ -6,15 +6,11 @@
 // template here
 ```
 
-### Problems
-
 ## Dynamic window
 
 ```rust
 // template here
 ```
-
-### Problems
 
 ## Dynamic window with flips
 
@@ -22,12 +18,10 @@
 // template here
 ```
 
-### Problems
-
 ## Windows requiring exact matches
 
 ```rust
 // template here
 ```
 
-### Problems
+## Problems

@@ -6,12 +6,10 @@
 // template here
 ```
 
-### Problems
-
 ## Interval scheduling patterns
 
 ```rust
 // template here
 ```
 
-### Problems
+## Problems

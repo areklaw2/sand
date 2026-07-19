@@ -6,15 +6,11 @@
 // template here
 ```
 
-### Problems
-
 ## DFS
 
 ```rust
 // template here
 ```
-
-### Problems
 
 ## Dijkstra
 
@@ -22,15 +18,11 @@
 // template here
 ```
 
-### Problems
-
 ## Prim's
 
 ```rust
 // template here
 ```
-
-### Problems
 
 ## Kruskal's
 
@@ -38,15 +30,11 @@
 // template here
 ```
 
-### Problems
-
 ## Kahn's (topological sort)
 
 ```rust
 // template here
 ```
-
-### Problems
 
 ## Disjoint Sets / Union-Find
 
@@ -54,4 +42,4 @@
 // template here
 ```
 
-### Problems
+## Problems

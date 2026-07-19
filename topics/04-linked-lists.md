@@ -6,15 +6,11 @@
 // template here
 ```
 
-### Problems
-
 ## Reverse Linked List
 
 ```rust
 // template here
 ```
-
-### Problems
 
 ## Remove Duplicates from Sorted List
 
@@ -22,4 +18,4 @@
 // template here
 ```
 
-### Problems
+## Problems

@@ -6,15 +6,11 @@
 // template here
 ```
 
-### Problems
-
 ## DFS
 
 ```rust
 // template here
 ```
-
-### Problems
 
 ## Tries
 
@@ -22,15 +18,11 @@
 // template here
 ```
 
-### Problems
-
 ## Segment tree
 
 ```rust
 // template here
 ```
-
-### Problems
 
 ## Quad trees
 
@@ -38,4 +30,4 @@
 // template here
 ```
 
-### Problems
+## Problems

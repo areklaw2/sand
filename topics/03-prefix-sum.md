@@ -6,12 +6,10 @@
 // template here
 ```
 
-### Problems
-
 ## Prefix sum + hashmap counting
 
 ```rust
 // template here
 ```
 
-### Problems
+## Problems

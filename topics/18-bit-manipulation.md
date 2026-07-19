@@ -6,12 +6,10 @@
 // template here
 ```
 
-### Problems
-
 ## Common bit tricks
 
 ```rust
 // template here
 ```
 
-### Problems
+## Problems

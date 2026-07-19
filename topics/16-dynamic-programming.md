@@ -6,15 +6,11 @@
 // template here
 ```
 
-### Problems
-
 ## Unbounded Knapsack
 
 ```rust
 // template here
 ```
-
-### Problems
 
 ## Longest Common Subsequence
 
@@ -22,15 +18,11 @@
 // template here
 ```
 
-### Problems
-
 ## Palindrome patterns
 
 ```rust
 // template here
 ```
-
-### Problems
 
 ## Kadane's algorithm
 
@@ -38,4 +30,4 @@
 // template here
 ```
 
-### Problems
+## Problems

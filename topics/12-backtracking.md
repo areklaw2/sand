@@ -6,15 +6,11 @@
 // template here
 ```
 
-### Problems
-
 ## Combinations
 
 ```rust
 // template here
 ```
-
-### Problems
 
 ## Permutations
 
@@ -22,4 +18,4 @@
 // template here
 ```
 
-### Problems
+## Problems
