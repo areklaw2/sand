@@ -71,9 +71,17 @@ fn two_pointer_two_arrays(arr1: &[i32], arr2: &[i32]) -> i32 {
 
 ## Problems
 
+**Left/right (classic)**
+
 - [Valid Palindrome](https://neetcode.io/problems/is-palindrome/question?list=neetcode150) - Easy
-- [Merge Sorted Array](https://neetcode.io/problems/merge-sorted-array/question?list=allNC) - Easy
-- [Remove Duplicates From Sorted Array](https://neetcode.io/problems/remove-duplicates-from-sorted-array/question?list=allNC) - Easy
 - [3Sum](https://neetcode.io/problems/three-integer-sum/question?list=neetcode150) - Medium
 - [Container With Most Water](https://neetcode.io/problems/max-water-container/question?list=neetcode150) - Medium
 - [Trapping Rain Water](https://neetcode.io/problems/trapping-rain-water/question) - Hard
+
+**Slow/fast**
+
+- [Remove Duplicates From Sorted Array](https://neetcode.io/problems/remove-duplicates-from-sorted-array/question?list=allNC) - Easy
+
+**Two arrays**
+
+- [Merge Sorted Array](https://neetcode.io/problems/merge-sorted-array/question?list=allNC) - Easy
