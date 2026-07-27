@@ -7,6 +7,14 @@ name = "avl-tree"
 version = "0.1.0"
 
 [[package]]
+name = "b-plus-tree"
+version = "0.1.0"
+
+[[package]]
+name = "b-tree"
+version = "0.1.0"
+
+[[package]]
 name = "basic-calculator"
 version = "0.1.0"
 
